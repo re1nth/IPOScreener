@@ -1,106 +1,20 @@
 # Stock Performance Analysis
 This report categorizes stocks by IPO age and displays those with a CAGR of >=20%.
 
-## <=1 year - Return Distribution
-Mean Return: -1.77%
-Median Return: -6.62%
-Variance: 986.43
-
-![Return Distribution for <=1 year](./images/return_distribution_<=1_year.png)
-
-## >1 and <=2 years - Return Distribution
-Mean Return: 25.38%
-Median Return: 15.15%
-Variance: 4521.25
-
-![Return Distribution for >1 and <=2 years](./images/return_distribution_>1_and_<=2_years.png)
-
-## >2 and <=5 years - Return Distribution
-Mean Return: 73.19%
-Median Return: 21.94%
-Variance: 34182.63
-
-![Return Distribution for >2 and <=5 years](./images/return_distribution_>2_and_<=5_years.png)
-
-## >5 and <=10 years - Return Distribution
-Mean Return: 153.58%
-Median Return: 60.02%
-Variance: 105266.20
-
-![Return Distribution for >5 and <=10 years](./images/return_distribution_>5_and_<=10_years.png)
-
-## Distribution of Stock Returns
-Mean Return: 153.58%
-Median Return: 60.02%
-Variance: 105266.20
-
-![Distribution of Stock Returns](./images/distribution_of_stock_returns.png)
+## Return Distributions for different IPO ages
+![Combined Return Distribution](./images/combined_return_distribution.png)
 
 # Stock Performance Analysis
 This report categorizes stocks by IPO age and displays those with a CAGR of >=20%.
 
-## <=1 year - Return Distribution
-Mean Return: -1.77%
-Median Return: -6.62%
-Variance: 986.43
-
-![Return Distribution for <=1 year](./images/return_distribution_<=1_year.png)
-
-## >1 and <=2 years - Return Distribution
-Mean Return: 25.38%
-Median Return: 15.15%
-Variance: 4521.25
-
-![Return Distribution for >1 and <=2 years](./images/return_distribution_>1_and_<=2_years.png)
-
-## >2 and <=5 years - Return Distribution
-Mean Return: 73.19%
-Median Return: 21.94%
-Variance: 34182.63
-
-![Return Distribution for >2 and <=5 years](./images/return_distribution_>2_and_<=5_years.png)
-
-## >5 and <=10 years - Return Distribution
-Mean Return: 153.58%
-Median Return: 60.02%
-Variance: 105266.20
-
-![Return Distribution for >5 and <=10 years](./images/return_distribution_>5_and_<=10_years.png)
+## Combined Return Distribution
+![Combined Return Distribution](./images/combined_return_distribution.png)
 
 # Stock Performance Analysis
 This report categorizes stocks by IPO age and displays those with a CAGR of >=20%.
 
-## <=1 year - CAGR Distribution
-Mean CAGR: 481.81%
-Median CAGR: -16.15%
-Variance: 14786889.74
-Probability of CAGR > 20%: 28.57%
-
-![CAGR Distribution for <=1 year](./images/cagr_distribution_<=1_year.png)
-
-## >1 and <=2 years - CAGR Distribution
-Mean CAGR: 16.23%
-Median CAGR: 11.38%
-Variance: 2537.23
-Probability of CAGR > 20%: 44.90%
-
-![CAGR Distribution for >1 and <=2 years](./images/cagr_distribution_>1_and_<=2_years.png)
-
-## >2 and <=5 years - CAGR Distribution
-Mean CAGR: 10.30%
-Median CAGR: 7.48%
-Variance: 1033.04
-Probability of CAGR > 20%: 30.19%
-
-![CAGR Distribution for >2 and <=5 years](./images/cagr_distribution_>2_and_<=5_years.png)
-
-## >5 and <=10 years - CAGR Distribution
-Mean CAGR: 6.13%
-Median CAGR: 5.87%
-Variance: 322.52
-Probability of CAGR > 20%: 17.20%
-
-![CAGR Distribution for >5 and <=10 years](./images/cagr_distribution_>5_and_<=10_years.png)
+## Combined CAGR Distribution
+![Combined CAGR Distribution](./images/combined_cagr_distribution.png)
 
 # Stock Performance Analysis
 This report categorizes stocks by IPO age and displays those with a CAGR of >=20%.
