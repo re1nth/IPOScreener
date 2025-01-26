@@ -7,12 +7,6 @@ This report categorizes stocks by IPO age and displays those with a CAGR of >=20
 # Stock Performance Analysis
 This report categorizes stocks by IPO age and displays those with a CAGR of >=20%.
 
-## Combined Return Distribution
-![Combined Return Distribution](./images/combined_return_distribution.png)
-
-# Stock Performance Analysis
-This report categorizes stocks by IPO age and displays those with a CAGR of >=20%.
-
 ## Combined CAGR Distribution
 ![Combined CAGR Distribution](./images/combined_cagr_distribution.png)
 
